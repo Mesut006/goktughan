@@ -1,0 +1,1 @@
+Base chain herkes içindir.
